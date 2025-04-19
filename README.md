@@ -1,4 +1,4 @@
-# Pricing Engine
+# THRD Coding Challenge - Pricing Engine
 
 This Python script implements an automated pricing engine that adjusts product prices based on inventory levels and sales performance.
 
