@@ -1,0 +1,4 @@
+sku,name,current_price,cost_price,stock
+A123,Item A,649.99,500.00,150
+B456,Item B,699.00,550.00,15
+C789,Item C,999.00,500.00,250
